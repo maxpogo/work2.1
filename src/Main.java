@@ -3,9 +3,9 @@ public class Main {
 
         int amount = 330;
         int mile = 20;
-        int bonus = amount/mile;
+        int bonus = amount / mile;
 
-        System.out.println("Итоговые бонусные мили: " + bonus );
+        System.out.println("Итоговые бонусные мили: " + bonus);
 
     }
 }
